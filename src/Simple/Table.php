@@ -41,7 +41,7 @@ final class Table
     private function render(): void
     {
         ?>
-        <table>
+        <table border="1">
             <?php if (!empty($this->headerRow)): ?>
                 <thead>
                 <tr>
