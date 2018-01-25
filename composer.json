@@ -1,6 +1,6 @@
 {
-    "name": "mitsuru793/php-html-table-helper",
-    "description": "Generate HTML Table with PHP",
+    "name": "mitsuru793/php-html-table-helper-design",
+    "description": "Consider to generate HTML table with PHP",
     "type": "library",
     "require": {
         "tightenco/collect": "^5.5",
